@@ -10,7 +10,3 @@ Kullanıcıların belirledikleri boyuttaki bir dizi kullanıcın seçtiği grafi
 algoritmaların çalışma anını kullanıcıya arayüz (GUI) aracılığı ile gösterilir. Aynı zamanda manuel olarak 
 dizi girmesine olanak tanır. Farklı sıralama algoritma çeşitleri ve farklı grafik çeşitleri ile kullanıcının 
 işleyişi ve farklılıkları kavramasına yardımcı olmayı hedefler.
-
-## Arayüz
-![gorsel1](gui.png)
-###
